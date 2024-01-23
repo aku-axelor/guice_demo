@@ -1,4 +1,3 @@
-// guice_demo/src/main/java/com/app/request/SquareRequest.java
 package com.app.request;
 
 import com.app.service.DrawCircle;
